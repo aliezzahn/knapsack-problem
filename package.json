@@ -1,0 +1,17 @@
+{
+  "name": "knapsack-problem",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "start": "bun run src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
